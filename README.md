@@ -30,12 +30,11 @@ sudo apt --fix-broken install -y
 
 #### Acessar o remotedesktop
 
-
-https://remotedesktop.google.com
+https://remotedesktop.google.com/access
 
 --- 
 
-![Captura de tela de 2022-06-22 12-27-09](https://user-images.githubusercontent.com/102867453/175074920-acdf81ce-0c43-44e4-9326-623db36bb613.png)
+![Captura de tela de 2022-06-22 12-48-54](https://user-images.githubusercontent.com/102867453/175075760-d8feb0c0-3146-450a-b45e-a51dae501c81.png)
 
 
 
