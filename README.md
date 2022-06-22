@@ -5,6 +5,10 @@
 ## O processo é criar uma Instancia EC2 com imagem Ubuntu e todas parte gráfica, com isso pode acessar-la via remotedesktop Google 
 
 
+## Foi dispponibilidade pasta com nome de scripts 
+
+##### Acessar via ssh a Ec2 e faz um git clone no reposiorio e seguir o passa-passo
+
 #### Processo na Ec2
 
 
