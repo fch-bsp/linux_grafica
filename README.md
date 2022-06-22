@@ -2,7 +2,36 @@
 
 
 
-O processo é criar uma Instancia EC2 com imagem Ubuntu e todas parte gráfica, com isso pode acessar-la via remotedesktop Google 
+## O processo é criar uma Instancia EC2 com imagem Ubuntu e todas parte gráfica, com isso pode acessar-la via remotedesktop Google 
+
+
+Processo na Ec2
+
+1. chmod +x setup_bia_dev_ubuntu_ui.sh
+./setup_bia_dev_ubuntu_ui.sh 
+
+#### validar o processo 
+
+docker compose --version
+docker --version 
+aws cli --version 
+
+2. chmod +x setup_vscode+chrome.sh
+./setup_vscode+chrome.sh
+
+
+3. chmod +x setup_ui_ubuntu.sh
+./setup_ui_ubuntu.sh
+sudo apt --fix-broken install -y
+./setup_ui_ubuntu.sh
+
+
+
+
+
+
+
+
 
 #### Tela do SO já com todos os recursos instalados 
 --- 
